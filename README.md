@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abdelrhman-oun
-- 👀 I’m interested in Embedded Systems, Microprocessors, Digital design.
-- 🌱 I’m currently learning AUTOSAR and Hardware Discription Langauge.
-- 💞️ I'm looking to take an internship as an embedded software engineer.
-- 📫 mail: abdelrahman.mo.oun@gmail.com
+- I’m @abdelrhman-oun
+- I’m interested in Digital IV design.
+- I’m currently learning Hardware Discription Langauges (VHDL , Verilo, SV).
+- I'm looking to take an internship as an digital IC designer.
+- mail: abdelrahman.mo.oun@gmail.com
 
 <!---
 abdelrhman-oun/abdelrhman-oun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
